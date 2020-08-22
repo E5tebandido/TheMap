@@ -20,10 +20,6 @@ import {PointStyle, Fill, Stroke, Style, Circle} from 'ol/style';
 import CircleStyle from 'ol/style/Circle';
 
 
-/**
- * @author Deiber Rincón <deiber.puntored@gmail.com>
- */
-
 const source = new VectorSource();
 
 function ajaxRequest(){
