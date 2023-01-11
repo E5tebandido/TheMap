@@ -11,7 +11,7 @@
 
 1. Download or clone the repo
 
-3. Go to the project directory in the command prompt and execute:
+2. Go to the project directory in the command prompt and execute:
 
    ### `npm install`
    
@@ -25,7 +25,7 @@
    
 
 
-4. Open [http://localhost:1234](http://localhost:1234) to view the app in dev mode.
+3. Open [http://localhost:1234](http://localhost:1234) to view the app in dev mode.
 
-5. That's it :)
+4. That's it :)
 
