@@ -1,10 +1,10 @@
-# TheWorld
+# TheMap
 
 ¿Have you ever worked with georeferencing?
 
 ![image](https://user-images.githubusercontent.com/44687875/211937069-bc082c35-77be-40e7-ad5a-f2ec685321f3.png)
 
-¿How to get the pokedei?
+¿How to get the map?
 
 1. Download or clone the repo
 
@@ -16,6 +16,7 @@
 
    ### `npm start`
    
+![image](https://user-images.githubusercontent.com/44687875/211937798-c0c045f7-2936-47fd-bc6b-731b8d92081a.png)
    
 
 
