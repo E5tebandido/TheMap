@@ -12,6 +12,8 @@
 3. Go to the project directory in the command prompt and execute:
 
    ### `npm install`
+   
+   ![image](https://user-images.githubusercontent.com/44687875/211939188-ca4020aa-a44c-4dea-83c9-bf70ea54196e.png)
 
    then
 
