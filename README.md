@@ -16,7 +16,7 @@
 
    ### `npm start`
    
-![image](https://user-images.githubusercontent.com/44687875/211937798-c0c045f7-2936-47fd-bc6b-731b8d92081a.png)
+   ![image](https://user-images.githubusercontent.com/44687875/211937798-c0c045f7-2936-47fd-bc6b-731b8d92081a.png)
    
 
 
