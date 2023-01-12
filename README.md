@@ -4,7 +4,10 @@
 
 ¿Have you ever worked with georeferencing?
 
+Check this project, ¿What do you want to do with this map?
+
 ![image](https://user-images.githubusercontent.com/44687875/211937069-bc082c35-77be-40e7-ad5a-f2ec685321f3.png)
+
 ![image](https://user-images.githubusercontent.com/44687875/211937973-57ae03f3-682a-442d-9b03-064702ff59dc.png)
 
 ¿How to get the project?
